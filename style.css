@@ -1,0 +1,297 @@
+body {
+  text-align: center;
+
+}
+
+#sitename{
+  
+  margin-left: 5%;
+  font-size: 3.7em;
+  font-family: 'Amatic SC', cursive;
+}
+
+.navigation{
+
+  margin-left: 33%;
+  font-size: 2.3em;
+}
+
+.navbar-nav a { 
+
+  margin-left: 15%;
+  font-family: 'Amatic SC', cursive;
+}
+
+
+.carousel-inner{
+  height:800px;
+}
+
+
+
+.backunimage{
+
+	background-position:50% 50%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-image:url('/Users/supermac/Desktop/Simplon.co/images/ecoleback.jpg');
+}
+
+.backdeuximage{
+
+	background-position:50% 50%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+  background-image:url('/Users/supermac/Desktop/Simplon.co/images/workback.png');
+}
+
+.backtroisimage{
+
+	background-position:50% 50%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+  background-image:url('/Users/supermac/Desktop/Simplon.co/images/hobbiesback.png');
+
+}
+
+
+#Etudes{
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+#ecoles, ul{
+  font-family: 'Julius Sans One', sans-serif;
+  margin-top:10%;
+}
+
+#Experiences{
+
+  text-align: center;
+ 
+}
+
+#untaf{
+margin-left: -10%;
+text-decoration : underline;
+margin-top: 40%;
+}
+
+.untafdescription{
+
+  font-size: 0.8em;
+  font-family: 'Julius Sans One', sans-serif;
+  margin-top: 15%;
+  margin-left: -30%;
+}
+
+#deuxtaf{
+  text-decoration : underline;
+  margin-top: 40%;
+  margin-left: 72%;
+  }
+  
+.deuxtafdescription{
+  
+    font-size: 0.8em;
+    font-family: 'Julius Sans One', sans-serif;
+    margin-top: 5%;
+    margin-left: 70%;
+    
+  }
+
+  #myself{
+
+    margin-left: 15%;
+    margin-top: 15%;
+  }
+
+
+  #lien{
+    margin-left: 15%;
+    font-family: 'Amatic SC', cursive;
+  }
+  #reference{
+
+    margin-left: 50%;
+    font-size: 0.8em;
+    font-style: italic;
+    font-style: bold; 
+    font-family: 'Cinzel Decorative';
+  }
+
+  #titrehobbie{
+
+    margin-top :30%;
+    margin-left:20%;
+  }
+  #titrehobbie2{
+
+    margin-top :20%;
+    margin-left:45%;
+  }
+  #titrehobbie3{
+
+    text-align:center;
+  }
+ 
+  #titrehobbie5{
+
+    margin-left : 48%;
+  }
+  #madjacques{
+
+    margin-left: 25%;
+  }
+
+  #labogue{
+
+    margin-left: 20%;
+
+  }
+
+  #bleues{
+
+    margin-left: 25%;
+
+  }
+
+  #lachorba{
+
+    margin-left: -25%;
+
+  }
+  #aurillac{
+
+    margin-left: 25%;
+
+  }
+
+  .randoetc{
+    margin-bottom:60%;
+    margin-top: 10%;
+
+  }
+  .aventuresetc{
+    margin-top: 60%;
+
+  }
+  .assoetc{
+    margin-bottom: 10%;
+    margin-top: 60%;
+  }
+
+  .Theatreetc{
+    margin-bottom: 10%;
+    margin-top: 60%;
+  }
+  
+  .exposetc{
+
+    margin-bottom: 0%;
+    margin-top: 60%;
+  }
+
+p{
+  font-size: 1.4em;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-size: 8em;
+
+  }
+  #imageun{
+
+    margin-bottom : 1230px;
+    margin-left : 85%;
+    font-size: 5em;
+    color:#FCFFA3;
+    font-family: 'Bangers', cursive;
+  }
+
+  #imagedeux{
+
+    margin-bottom : 600px;
+    margin-left:0%;
+    font-size: 4em;
+    font-family: 'Bangers', cursive;
+  }
+  #imagetrois{
+
+    margin-bottom : 700px;
+    margin-left:70%;
+    font-size: 5em;
+    font-family: 'Bangers', cursive;
+  }
+
+h3{
+  font-size: 3em;
+  font-family: 'Amatic SC', cursive;
+  text-decoration : underline;
+}
+
+h2{
+ font-family: 'Bangers', cursive;
+ color:white;
+ font-size: 5em;
+ margin-top: 60%;
+ padding-top : 60%;
+ 
+}
+
+h4{
+  font-style: bold;
+  font-family: 'Cinzel', serif;
+  margin-left: 35%;
+  padding-top: -20%;
+  background-color: #D3D3D3;
+}
+
+#Contact{
+
+  text-align: center;
+  margin-top: 5%;
+}
+.infos{
+
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 20%;;
+}
+
+#moreinfos{
+  
+  text-align: center;
+}
+
+
+
+
+@media (min-width: 576px) {
+  .affiches {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .affiches  {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .affiches {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .affiches {
+    max-width: 1140px;
+  }
+}
+
+
+
+

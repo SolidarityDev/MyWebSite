@@ -6,7 +6,7 @@ body {
 #sitename{
   
   margin-left: 5%;
-  font-size: 3.7em;
+  font-size: 3.1em;
   font-family: 'Amatic SC', cursive;
 }
 
@@ -34,7 +34,7 @@ body {
 	background-position:50% 50%;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-image:url('/Users/supermac/Desktop/Simplon.co/images/ecoleback.jpg');
+	background-image:url('ecoleback.jpg');
 }
 
 .backdeuximage{
@@ -42,7 +42,7 @@ body {
 	background-position:50% 50%;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-  background-image:url('/Users/supermac/Desktop/Simplon.co/images/workback.png');
+  background-image:url('workback.png');
 }
 
 .backtroisimage{
@@ -50,7 +50,7 @@ body {
 	background-position:50% 50%;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-  background-image:url('/Users/supermac/Desktop/Simplon.co/images/hobbiesback.png');
+  background-image:url('hobbiesback.png');
 
 }
 
@@ -68,6 +68,25 @@ body {
 #Experiences{
 
   text-align: center;
+  margin-top: 20%;
+ 
+}
+
+.firstexp{
+
+  margin-top: -3%;
+}
+
+.secondexp{
+
+  margin-top:-2%;
+}
+
+#Hobbies{
+
+  text-align: center;
+  margin-top: 20%;;
+  font-size: 3em;
  
 }
 
@@ -125,19 +144,94 @@ margin-top: 40%;
     margin-top :30%;
     margin-left:20%;
   }
+
+#favsentence{
+
+  font-family: 'Amatic SC', cursive;
+  margin-top :5%;
+  margin-left :5%;
+  font-size: 1.5em;
+}
+
   #titrehobbie2{
 
-    margin-top :20%;
+    margin-top :10%;
     margin-left:45%;
   }
+
+  #madsentence{
+
+    font-family: 'Amatic SC', cursive;
+    margin-top :5%;
+    margin-left :40%;
+    font-size: 1.5em;
+  }
+
   #titrehobbie3{
 
     text-align:center;
+    margin-left: -3%;
+  }
+
+  #bbsentence{
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.7em;
+    margin-left: 25%;
+    margin-top:5%;
+
+  }
+  #boguesentence{
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.7em;
+    margin-left: 20%;
+    margin-top:5%;
+
+  }
+  #assosentence{
+
+    margin-left:30%;
+    margin-top: 10%;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.0em;
+  }
+  mark{
+    text-decoration: underline;
+  }
+
+#titrehobbie4{
+
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+  #unsentenceauri{
+
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    margin-top: 3%;
+    font-size: 2.0em;
+  }
+  #deuxsentenceauri{
+
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    margin-top: 3%;
+    font-size: 2.0em;
   }
  
   #titrehobbie5{
 
     margin-left : 48%;
+  }
+
+  #sentenceexpo{
+    font-family: 'Amatic SC', cursive;
+    font-size: 2em;
+    margin-top: 6%;
+    text-align: center;
+    margin-left: 3%;
+
+
   }
   #madjacques{
 
@@ -158,7 +252,7 @@ margin-top: 40%;
 
   #lachorba{
 
-    margin-left: -25%;
+    margin-left: -5%;
 
   }
   #aurillac{
@@ -168,29 +262,37 @@ margin-top: 40%;
   }
 
   .randoetc{
-    margin-bottom:60%;
+    margin-bottom:70%;
     margin-top: 10%;
 
   }
   .aventuresetc{
-    margin-top: 60%;
-
+    margin-top: 20%;
+    margin-bottom: 20%;
   }
-  .assoetc{
+
+  .festivetc{
+    margin-top: -40%;
     margin-bottom: 10%;
-    margin-top: 60%;
+  }
+
+  .assoetc{
+    margin-bottom: 40%;
+    margin-top: 30%;
   }
 
   .Theatreetc{
     margin-bottom: 10%;
-    margin-top: 60%;
+    margin-top: 40%;
   }
   
   .exposetc{
 
     margin-bottom: 0%;
-    margin-top: 60%;
+    margin-top: 40%;
   }
+
+  
 
 p{
   font-size: 1.4em;
@@ -203,18 +305,18 @@ h1 {
   }
   #imageun{
 
-    margin-bottom : 1230px;
-    margin-left : 85%;
+    margin-bottom : 1150px;
+    margin-left : 83%;
     font-size: 5em;
-    color:#FCFFA3;
+    color: #F3F94A;
     font-family: 'Bangers', cursive;
   }
 
   #imagedeux{
 
-    margin-bottom : 600px;
+    margin-bottom : 740px;
     margin-left:0%;
-    font-size: 4em;
+    font-size: 3.2em;
     font-family: 'Bangers', cursive;
   }
   #imagetrois{
@@ -264,7 +366,6 @@ h4{
   
   text-align: center;
 }
-
 
 
 
